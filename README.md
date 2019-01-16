@@ -1,6 +1,6 @@
 # Prothom-Alo-online-News-
 
-Live Demo:
+Live Demo:https://radwan503.github.io/Prothom-Alo-online-News-/
 Youtube:https://www.youtube.com/channel/UCG1Gj1CcdkbXh3crT-CNEkw/videos
 Behance:https://www.behance.net/gallery/74946089/Prothom-Alo-online-News-portal
 
@@ -41,7 +41,7 @@ Jquery Library
  Font Awesome 5
   =========== Thanks ======== please dont Forget to Leave your Feedback.
 
-☑️N.B: I develop this template for my practice. 
+☑️N.B: I develop this template for my practice purpose ,Nothing Else. 
 
 Facebookhttps://www.facebook.com/Radwandevs/?modal=admin_todo_tour"
 Twitter:https://twitter.com/RadwanAnik 

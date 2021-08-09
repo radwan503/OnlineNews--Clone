@@ -1,4 +1,4 @@
-# ProthomAlo--CloneOnlineNews
+#ProthomAlo--CloneOnlineNews
 
 >Prothom-Alo-online-News portal is simple HTML TEMPLATE for your Magazine, News or Blog site. It is cross browser compatible, mobile ready so it will look great on smart phones, tablets as well as laptops and desktop displays. This TEMPLATE is very powerful yet easy to use. This template suits for any type of website: Sport news, fashion magazine,travel blog…
 
